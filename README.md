@@ -102,7 +102,6 @@ There should be improvments made and this is not the final product yet.
 **1.**	The server side should in theory execute any task.
 	-	So for example it can be done by passing the task you want it to solve by class pointer.
 		But this class has to be templated becuase its "Any" task. which will force the server to be tempalted aswell.
-	
 		Other ways may include sending Json files with the parameters and "forward" them
 		to some "execute" function which takes any parameter.
 
