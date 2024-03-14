@@ -11,7 +11,7 @@ Atleast for Windows and Linux.
 
 In here I will provide a quick brief on how to use this project for your needs.
 
-### Comilation Steps:
+### Compilation Steps:
 
 #### Use Visual Studio to compile (requires version 2017 or above)
 
